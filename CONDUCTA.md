@@ -1,6 +1,6 @@
 # Código de conducta
 
-Como participantes de este proyecto, y en aras de fomentar una comunidad abierta y acogedora, nos comprometemos a respetar a todas las personas que hagan parte del mismo y otras actividades relacionadas.
+Como participantes de este proyecto, en aras de fomentar una comunidad abierta y acogedora, nos comprometemos a respetar a todas las personas que hagan parte del mismo y otras actividades relacionadas.
  
 Estamos comprometidos a hacer que la participación en este proyecto sea una experiencia libre de acoso para todos, independientemente del nivel de experiencia, género, identidad y expresión de género, orientación sexual, discapacidad, apariencia personal, tamaño corporal, raza, etnia, edad, religión o nacionalidad.
  
@@ -19,6 +19,8 @@ Al adoptar este Código de Conducta, los encargados del mantenimiento del proyec
  
 Este Código de conducta se aplica tanto dentro de los espacios del proyecto como en los espacios públicos cuando un individuo representa el proyecto o su comunidad.
  
-Los casos de comportamiento abusivo, hostigador o inaceptable pueden ser informados contactando a luis@mister.software
+Los casos de comportamiento abusivo, hostigador o inaceptable pueden ser informados contactando a @mrsoftware19 en twitter.
  
-Bienvenida
+¡Gracias por unirte!
+
+
