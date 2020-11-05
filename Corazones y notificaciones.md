@@ -6,7 +6,9 @@ Autores:
 <!--
 párrafo corto que explica qué estas proponiendo
 -->
-Las notificaciones deberian activarse al momento de darle corazon a una publicación, pues actualmente solo se activan cuando has comentado en un tema, incluso cuando tu comentario no ha respondido la pregunta.
+Las notificaciones deberian activarse al momento de darle corazon a una publicación, pues actualmente solo se activan cuando has comentado en un tema, incluso cuando tu comentario no ha respondido la pregunta, por ejemplo cuando el primer comentario dice algo como "tengo la misma pregunta". 
+
+Ahi vemos que el comentario no esta respondiendo la pregunta pero para el sistema si ha sido resuelta.
 
 ## 2 Motivación
 
@@ -32,7 +34,7 @@ El proposito de esta sección se resume en:
 
  -->
 
-Incluir propuesta de UI aquí.
+Una opción es que cuando le doy corazon a una pregunta, automaticamente recibir notificaciones de tal publicacion, de tal manera que si en algun momento deseo dejar de recibir esas notificaciones simplemente retiro el corazon, aunque lo ideal seria una casilla o checkbox que permita "seguir esta pregunta" o "recibir notificiaciones".
 
 ## 4 Métricas
 
