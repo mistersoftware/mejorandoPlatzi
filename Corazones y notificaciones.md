@@ -34,7 +34,7 @@ El proposito de esta sección se resume en:
 
  -->
 
-Una opción es que cuando le doy corazon a una pregunta, automaticamente recibir notificaciones de tal publicacion, de tal manera que si en algun momento deseo dejar de recibir esas notificaciones simplemente retiro el corazon, aunque lo ideal seria una casilla o checkbox que permita "seguir esta pregunta" o "recibir notificiaciones".
+Una opción es que cuando le doy corazon a una pregunta, automaticamente recibir notificaciones de tal publicacion, de tal manera que si en algun momento deseo dejar de recibir esas notificaciones simplemente retiro el corazon.
 
 ## 4 Métricas
 
@@ -57,7 +57,7 @@ El desconocimiento interno de la plataforma ofrece una gran dificultad a la hora
 <!--
 ¿Hay otras formas de resolver éste problema?
 -->
-Dime alguna.
+Una casilla o checkbox que permita "seguir esta pregunta" o "recibir notificiaciones".
 
 ## 7 Impacto potencial y dependencias
 
@@ -68,7 +68,7 @@ Dime alguna.
 
   Aquí buscamos ser concientes del ambiente en el que operamos y generar empatía hacia otros que pueden verse afectados por nuestra decisión.
  -->
-El impacto se podra ver de forma inmediata en los casos mas relevantes.
+Se reduciria la carga sobre el sistema de notificaciones que actualmente se satura facilmente pues uno no tiene la oportunidad de elegir los post de los cuales esta siendo notificado.
 
 ## 8 Preguntas sin resolver
 
