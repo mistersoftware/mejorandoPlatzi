@@ -1,7 +1,7 @@
 Autores:
  - @mistersoftware
 
-## 1 Habilitar la corrección de subtitulos
+## 1 Habilitar la corrección de subtitulos (ignorar este item pues ya fue implementado)
 
 <!--
 párrafo corto que explica qué estas proponiendo
