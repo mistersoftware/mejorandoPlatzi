@@ -1,11 +1,13 @@
 Autores:
  - @mistersoftware
 
-## 1 IA en marcadores para chatbot
+## 1 IA en marcadores para chatbot (ya implementado)
 
 <!--
 párrafo corto que explica qué estas proponiendo
 -->
+
+
 Aprovechar los marcadores para entrenar un modelo que identifique contenidos y sirva como un buscador accesible via chatbot.
 
 ## 2 Motivación
