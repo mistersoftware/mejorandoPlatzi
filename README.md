@@ -6,7 +6,7 @@ Autores:
 <!--
 párrafo corto que explica qué estas proponiendo
 -->
-En este repositorio se incluyen algunas ideas de _**posibles**_ mejoras en la plataforma.
+En este repositorio se incluyen algunas ideas de _**posibles**_ mejoras en la plataforma. En el transcurso de esta semana estare revisando este borrador de propuestas para incluir algunos ejemplos con imagenes. (5 nov 2020)
 
 ## 2 Motivación
 
